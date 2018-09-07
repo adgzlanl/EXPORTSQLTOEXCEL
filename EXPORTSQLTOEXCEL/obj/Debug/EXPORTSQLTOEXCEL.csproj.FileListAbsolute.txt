@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\bin\Debug\EXPORTSQLTOEXCEL.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\bin\Debug\EXPORTSQLTOEXCEL.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\bin\Debug\EXPORTSQLTOEXCEL.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\obj\Debug\EXPORTSQLTOEXCEL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\obj\Debug\EXPORTSQLTOEXCEL.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\obj\Debug\EXPORTSQLTOEXCEL.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\obj\Debug\EXPORTSQLTOEXCEL.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\obj\Debug\EXPORTSQLTOEXCEL.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\EXPORTSQLTOEXCEL\EXPORTSQLTOEXCEL\obj\Debug\EXPORTSQLTOEXCEL.pdb
